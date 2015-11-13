@@ -33,3 +33,12 @@ body {
 .post-title {
   font-size: 2rem;
 }
+
+/* Code Under This Line */
+.container{
+  max-width: 100%;
+}
+
+img{
+  max-width: 100%;
+}

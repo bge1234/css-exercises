@@ -8,3 +8,20 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.a{
+  background: yellow;
+  width: 500px;
+  margin: 0 auto;
+  border: 10px solid yellow;
+}
+.b{
+  background: orange;
+  border: 10px solid orange;
+}
+.c{
+  background: black;
+  border: 10px solid black;
+}
+.d{
+  background: blue;
+}

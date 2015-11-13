@@ -9,3 +9,16 @@ img {
 }
 
 /* Code Under This Line */
+.short{
+  height: 100px;
+}
+.tall{
+  height: 200px;
+}
+.inside{
+  display: inline-block;
+}
+/*Bonus*/
+body, html, .giant {
+   height:100%
+}

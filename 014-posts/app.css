@@ -38,3 +38,12 @@ img {
 }
 
 /* Code Under This Line */
+.posts{
+  position: absolute;
+  overflow: auto;
+}
+.services{
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+}
