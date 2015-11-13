@@ -32,3 +32,62 @@ h3 {
 }
 
 /* Code Under This Line */
+/*Symmetrical*/
+.two .column{
+  width: 50%;
+  float: left;
+}
+.three .column{
+  width: 33%;
+  float: left;
+}
+.four .column{
+  width: 25%;
+  float: left;
+}
+.five .column{
+  width: 20%;
+  float: left;
+}
+.six .column{
+  width: 16.66%;
+  float: left;
+}
+.seven .column{
+  width: 14.28%;
+  float: left;
+}
+.eight .column{
+  width: 12.5%;
+  float: left;
+}
+.nine .column{
+  width: 11.11%;
+  float: left;
+}
+.ten .column{
+  width: 10%;
+  float: left;
+}
+.eleven .column{
+  width: 9.09%;
+  float: left;
+}
+.twelve .column{
+  width: 8.33%;
+  float: left;
+}
+
+/*Asymmetrical*/
+.column.column-two{
+  float: left;
+  width: 50%;
+}
+.column.column-three{
+  float: left;
+  width: 33%;
+}
+.column.column-four{
+  float: left;
+  width: 25%;
+}
