@@ -80,14 +80,46 @@ h3 {
 
 /*Asymmetrical*/
 .column.column-two{
-  float: left;
   width: 50%;
+  float: left;
 }
 .column.column-three{
-  float: left;
   width: 33%;
+  float: left;
 }
 .column.column-four{
-  float: left;
   width: 25%;
+  float: left;
+}
+.column.column-five{
+  width: 20%;
+  float: left;
+}
+.column.column-six{
+  width: 16.66%;
+  float: left;
+}
+.column.column-seven{
+  width: 14.28%;
+  float: left;
+}
+.column.column-eight{
+  width: 12.5%;
+  float: left;
+}
+.column.column-nine{
+  width: 11.11%;
+  float: left;
+}
+.column.column-ten{
+  width: 10%;
+  float: left;
+}
+.column.column-eleven{
+  width: 9.09%;
+  float: left;
+}
+.column.column-twelve{
+  width: 8.33%;
+  float: left;
 }
